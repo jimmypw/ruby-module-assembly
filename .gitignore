@@ -1,5 +1,4 @@
 *.o
-solve
 Gemfile.lock
 ext/quantbet/Makefile
 ext/quantbet/quantbet.so
